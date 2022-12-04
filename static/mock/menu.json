@@ -1,0 +1,147 @@
+{
+    "ref": true,
+    "data": {
+        "menu": [
+            {
+                "type":"胸",
+                "detail": [
+                    {
+                        "name": "杠铃卧推",
+                        "Selected": false
+                    },
+                    {
+                        "name": "哑铃卧推",
+                        "Selected": false
+                    },
+                    {
+                        "name": "器械推胸",
+                        "Selected": false
+                    },
+                    {
+                        "name": "史密斯机卧推",
+                        "Selected": false
+                    },
+                    {
+                        "name": "上斜哑铃卧推",
+                        "Selected": false
+                    },
+                    {
+                        "name": "哑铃飞鸟",
+                        "Selected": false
+                    },
+                    {
+                        "name": "器械飞鸟",
+                        "Selected": false
+                    },
+                    {
+                        "name": "十字夹胸",
+                        "Selected": false
+                    }
+                ]
+            },
+            {
+                "type":"背",
+                "detail": [
+                    {
+                        "name": "哑铃划船",
+                        "Selected": false
+                    },
+                    {
+                        "name": "绳索华春",
+                        "Selected": false
+                    },
+                    {
+                        "name": "史密斯划船",
+                        "Selected": false
+                    },
+                    {
+                        "name": "高位下拉",
+                        "Selected": false
+                    },
+                    {
+                        "name": "硬拉",
+                        "Selected": false
+                    },
+                    {
+                        "name": "杠铃划船",
+                        "Selected": false
+                    },
+                    {
+                        "name": "窄距下拉",
+                        "Selected": false
+                    }
+                ]
+            },
+            {
+                "type":"腿",
+                "detail": [
+                    {
+                        "name": "杠铃卧推",
+                        "Selected": false
+                    },
+                    {
+                        "name": "哑铃卧推",
+                        "Selected": false
+                    },
+                    {
+                        "name": "器械推胸",
+                        "Selected": false
+                    },
+                    {
+                        "name": "史密斯机卧推",
+                        "Selected": false
+                    },
+                    {
+                        "name": "上斜哑铃卧推",
+                        "Selected": false
+                    },
+                    {
+                        "name": "哑铃飞鸟",
+                        "Selected": false
+                    },
+                    {
+                        "name": "器械飞鸟",
+                        "Selected": false
+                    },
+                    {
+                        "name": "十字夹胸",
+                        "Selected": false
+                    }
+                ]
+            },
+            {
+                "type":"肩",
+                "detail": [
+                    {
+                        "name": "哑铃划船",
+                        "Selected": false
+                    },
+                    {
+                        "name": "绳索华春",
+                        "Selected": false
+                    },
+                    {
+                        "name": "史密斯划船",
+                        "Selected": false
+                    },
+                    {
+                        "name": "高位下拉",
+                        "Selected": false
+                    },
+                    {
+                        "name": "硬拉",
+                        "Selected": false
+                    },
+                    {
+                        "name": "杠铃划船",
+                        "Selected": false
+                    },
+                    {
+                        "name": "窄距下拉",
+                        "Selected": false
+                    }
+                ]
+            }
+        ]
+    }
+}
