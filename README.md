@@ -1,4 +1,4 @@
-# markyourfix
+# Exercise Recorder
 
 > A Vue.js project
 
